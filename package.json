@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.7.1",
+    "pm2": "^5.3.1"
+  },
+  "name": "BetVon Discord Bot",
+  "version": "4.2.0",
+  "author": "sevue.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "discord.js",
+    "ticket-bot",
+    "flamequard",
+    "ticketbot",
+    "ticket",
+    "discord",
+    "discord-bot",
+    "youtube-tutorial",
+    "open-source"
+  ],
+  "license": "MIT",
+  "description": "Discord Moderation, Ticket  System Bot"
+}
